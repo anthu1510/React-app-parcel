@@ -1,0 +1,25 @@
+{
+  "name": "React-Crud",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "bundle",
+  "scripts": {
+    "start": "parcel src/index.html  --no-cache",
+    "build": "parcel build src/index.html  --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "samp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "materialize-css": "^1.0.0-rc.2",
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1"
+  }
+}
