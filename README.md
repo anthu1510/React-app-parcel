@@ -2,7 +2,7 @@
 my custom React app on Parcel bundles without web pack configuration... 
 Parceljs Super fast bundler with zero Configuration
 
-Clone $ git clone https://github.com/anthu1510/React-app-parcel.git
+Clone : "git clone https://github.com/anthu1510/React-app-parcel.git"
 
 1. Download this package
 2. change directory "cd React-app-parcel"
